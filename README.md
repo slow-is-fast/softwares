@@ -32,6 +32,7 @@ softwares I used
 - Size Up
 - Dropbox
 - Forklift
+- Homebrew
 
 ## MultiMedia
 - QQ Music
