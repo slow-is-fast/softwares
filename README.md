@@ -26,6 +26,7 @@ softwares I used
 - Paw
 - Slack
 - Charles
+- Jenkins
 
 ## Productivity
 - Alfread
