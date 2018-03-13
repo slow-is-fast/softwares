@@ -39,6 +39,7 @@ softwares I used
 - QQ Music
 - IINA
 - iTunes
+- Eagle(https://eagle.cool)
 
 ## Others
 - iA Writer
