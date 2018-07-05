@@ -8,6 +8,9 @@ softwares I used
 - 115 Browser
 - Tor Browser
 
+## Chrome Extensions
+- Twitter Video Assist
+
 ## Editor/IDE
 - PHPStorm
 - PyCharm CE
@@ -52,4 +55,6 @@ softwares I used
 - DaisyDisk
 - iBook
 - Kindle
+
+
 
