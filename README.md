@@ -20,7 +20,7 @@ softwares I used
 - Emacs
 
 ## Terminal
-- iTerm
+- _iTerm_
 - Terminal.app
 
 ## Dev
@@ -34,7 +34,7 @@ softwares I used
 
 ## Productivity
 - Alfread
-- Size Up
+- _Size Up_
 - Dropbox
 - Forklift
 - Homebrew
