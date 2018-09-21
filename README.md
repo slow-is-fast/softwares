@@ -20,7 +20,7 @@ softwares I used
 - Emacs
 
 ## Terminal
-- _iTerm_
+- ~~iTerm~~
 - Terminal.app
 
 ## Dev
@@ -34,7 +34,7 @@ softwares I used
 
 ## Productivity
 - Alfread
-- _Size Up_
+- ~~Size Up~~
 - Dropbox
 - Forklift
 - Homebrew
@@ -50,6 +50,7 @@ softwares I used
 - Caffeine
 - CCleaner
 - Pocket
+- Instapaper
 - Reeder
 - Rescueime
 - Unclutter
