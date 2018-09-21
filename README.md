@@ -14,6 +14,7 @@ softwares I used
 ## Editor/IDE
 - PHPStorm
 - PyCharm CE
+- Intellij-Idea
 - Sublime Text 3
 - Vim
 - Emacs
