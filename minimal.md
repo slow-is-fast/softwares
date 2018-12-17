@@ -1,4 +1,5 @@
-Minimal Mac Dev Setup
+# Minimal Mac Dev Setup
+
 - Safari
 - Mail
 - Sublime Text 3
