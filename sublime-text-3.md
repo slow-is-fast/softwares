@@ -2,6 +2,20 @@
 
 ## Plugins 
 
+- AdvancedNewFile
+- Alignment
+- All Autocomplete
+- BracketHighlighter
+- Github Color Theme
+- Inspired GitHub Color Scheme
+- PHP Companion
+- Package Control
+- SublimeLinter-php
+- SublimeLinter
+
+## Custom Snippets
+
+
 ## Config
 
 ``` javascript
