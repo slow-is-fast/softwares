@@ -13,11 +13,11 @@ softwares I used
 
 ## Editor/IDE
 - PHPStorm
-- PyCharm CE
-- Intellij-Idea
 - Sublime Text 3
 - Vim
-- Emacs
+- ~PyCharm CE~
+- ~Intellij-Idea~
+- ~Emacs~
 
 ## Terminal
 - ~~iTerm~~
@@ -30,7 +30,7 @@ softwares I used
 - Paw
 - Slack
 - Charles
-- Jenkins
+- ~Jenkins~
 
 ## Productivity
 - Alfread
@@ -48,13 +48,15 @@ softwares I used
 ## Others
 - iA Writer
 - Caffeine
+- HammerSpoon
+- AdGuard
+- DaisyDisk
 - CCleaner
 - Pocket
 - Instapaper
 - Reeder
 - Rescueime
 - Unclutter
-- DaisyDisk
 - iBook
 - Kindle
 
