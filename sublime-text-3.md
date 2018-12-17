@@ -4,7 +4,7 @@
 
 ## Config
 
->>
+``` javascript
 {
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/Github Color Theme/GitHub.tmTheme",
@@ -23,3 +23,4 @@
 	],
 	"theme": "Default.sublime-theme"
 }
+```
