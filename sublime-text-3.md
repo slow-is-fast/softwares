@@ -16,6 +16,22 @@
 ## CLI setup
 > ln –s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
 
+## The Data directory
+### Location
+The location of theData directory is platform-dependent:
+- Windows: %APPDATA%\Sublime Text 3
+- OS X: ~/Library/Application Support/Sublime Text 3
+- Linux: ~/.config/sublime-text-3
+
+### Directory brief
+We should see at least three directories inside the Data directory:
+- Installed Packages: 
+	This contains a copy of every sublime-packageinstalled. It's used to restore packages.
+- Local: 
+	This stores all the information about our current and previous session. This is used to restore Sublime to the stage we were in, when we last quit Sublime.
+- Packages: 
+	This contains all package folders that Sublime will load
+
 ## Plugins 
 
 - AdvancedNewFile
