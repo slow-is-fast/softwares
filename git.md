@@ -7,4 +7,5 @@
 ### unset
 > git config --global --unset https.proxy
 
+OR 
 > git config --global --edit
