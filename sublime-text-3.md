@@ -6,10 +6,11 @@
 
 
 ## Features
-- Minimap
 - Command Palette
+- Go To Anything
 - Multiple cursors
 - Snippets(especially your customized snippets)
+- Minimap
 - shortcuts(of course)
 
 
@@ -31,6 +32,10 @@ We should see at least three directories inside the Data directory:
 	This stores all the information about our current and previous session. This is used to restore Sublime to the stage we were in, when we last quit Sublime.
 - Packages: 
 	This contains all package folders that Sublime will load
+
+
+## packages, plugins, snippets, and macros
+
 
 ## Plugins 
 
