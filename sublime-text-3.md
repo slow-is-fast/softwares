@@ -1,5 +1,17 @@
 # Sublime Text 3
 
+## Reason to Choose Sublime Text over Emacs/Vim
+- Beautiful UI
+- Simple Learning Curve
+
+
+## Features
+- Minimap
+- Command Palette
+- Multiple cursors
+- Snippets(especially your customized snippets)
+- shortcuts(of course)
+
 ## Plugins 
 
 - AdvancedNewFile
@@ -38,3 +50,14 @@
 	"theme": "Default.sublime-theme"
 }
 ```
+
+
+## Color Themes
+recommended by Dan Bader
+
+- default
+- SoDaReloaded Theme + Tomorrow Night Scheme
+- Predawn Theme
+- Material Nil Theme
+- Boxy Theme
+- Seti UI Theme + Seti UX Scheme
