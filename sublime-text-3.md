@@ -81,9 +81,63 @@ We should see at least three directories inside the Data directory:
 ``` javascript
 [
 	{ "keys": ["ctrl+w"], "command": "expand_region" }, 
-	{ "keys": ["ctrl+u"], "command": "expand_region", "args": {"undo": true}, "context": [{ "key": "expand_region_soft_undo" }] }
+
+	{ "keys": ["ctrl+u"], "command": "expand_region", "args": {"undo": true}, "context": [{ "key": "expand_region_soft_undo" }] },
+	{ "keys": ["super+l"], "command": "run_macro_file", "args": {"file": "Packages/User/select_line.sublime-macro"} },
+	{ "keys": ["super+shift+l"], "command": "run_macro_file", "args": {"file": "Packages/User/soft_select_line.sublime-macro"} }
 ]
 ```
+
+Sublime Text `expand_selection` to line will move cursor to next line beginning,
+so I record two macros to expand_selection without going to next line.
+
+#### select_line.sublime-macro
+``` javascript
+[
+	{
+		"args":
+		{
+			"to": "hardbol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"extend": true,
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	}
+]
+```
+
+#### soft_select_line.sublime-macro
+``` javascript
+[
+	{
+		"args":
+		{
+			"to": "bol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"extend": true,
+			"to": "eol"
+		},
+		"command": "move_to"
+	}
+]
+```
+
+
+
+### most used
+- ⌘+d --> ⌃+⌘+g
+
 
 
 ## Color Themes
