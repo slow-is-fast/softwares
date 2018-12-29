@@ -49,6 +49,7 @@ We should see at least three directories inside the Data directory:
 - Package Control
 - SublimeLinter-php
 - SublimeLinter
+- ExpandRegion
 
 ## Custom Snippets
 
@@ -74,6 +75,14 @@ We should see at least three directories inside the Data directory:
 	],
 	"theme": "Default.sublime-theme"
 }
+```
+
+## Keybinds
+``` javascript
+[
+	{ "keys": ["ctrl+w"], "command": "expand_region" }, 
+	{ "keys": ["ctrl+u"], "command": "expand_region", "args": {"undo": true}, "context": [{ "key": "expand_region_soft_undo" }] }
+]
 ```
 
 
