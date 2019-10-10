@@ -149,3 +149,9 @@ recommended by Dan Bader
 - Material Nil Theme
 - Boxy Theme
 - Seti UI Theme + Seti UX Scheme
+
+
+
+## Reference
+
+- [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
